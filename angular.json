@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Music-player-application"
+    }
+  },
+  "defaultProject": "Music-player-application",
+  "cli": {
+    "analytics": false
+  }
 }
